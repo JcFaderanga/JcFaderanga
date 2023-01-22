@@ -1,6 +1,6 @@
-![logo](https://github.com/JcFaderanga/JcFaderanga/blob/main/github-header-image%20(1).png)
+![Header](https://github.com/JcFaderanga/JcFaderanga/blob/main/github-header-image%20(1).png)
 
-<h1 align="center">Hi 👋, I'm Jc Faderanga</h1>
+<h1 align="center">Hi, I'm Jc Faderanga</h1>
 <h3 align="center">I am a Web Developer from Phillipines</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 - 🌱 I’m currently learning **Advance JavaScript, PHP and Bootstrap**
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **Jcfaderanga@gmail.com**
 
-- ⚡ Fun fact **I'm fun to be with :>**
+- ⚡ Fun fact **I'm fun to be with**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
