@@ -1,4 +1,4 @@
-[![Masterhead](https://github.com/JcFaderanga/JcFaderanga/blob/main/github-header-image.png)]
+![logo](https://github.com/JcFaderanga/JcFaderanga/blob/main/github-header-image%20(1).png)
 
 <h1 align="center">Hi 👋, I'm Jc Faderanga</h1>
 <h3 align="center">I am a Web Developer from Phillipines</h3>
