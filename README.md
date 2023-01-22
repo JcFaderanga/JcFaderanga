@@ -1,9 +1,10 @@
+<img align="right" alt="Coding" src="https://github.com/JcFaderanga/JcFaderanga/blob/main/github-header-image.png">
 <h1 align="center">Hi 👋, I'm Jc Faderanga</h1>
-<h3 align="center">A passionate frontend developer from Phillipines</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif">
+<h3 align="center">I am a Web Developer from Phillipines</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 - 🌱 I’m currently learning **Advance JavaScript, PHP and Bootstrap**
 
-- 👨‍💻 All of my projects are available at [https://jcfaderanga.github.io/Portfolio./main](https://jcfaderanga.github.io/Portfolio./main)
+- 👨‍💻 All of my projects are available at [Portfolio](https://jcfaderanga.github.io/Portfolio./main)
 
 - 💬 Ask me about **HTML, CSS and JavaScript**
 
