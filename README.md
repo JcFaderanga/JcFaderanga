@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Jc Faderanga</h1>
 <h3 align="center">I am a Web Developer from Phillipines</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
-- 🌱 I’m currently learning **Advance JavaScript, PHP and Bootstrap**
+- 🌱 I’m currently learning **ReactJS, PostgreSQL, TypeScript and TailwindCSS**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://jcfaderanga.github.io/Portfolio./)
 
