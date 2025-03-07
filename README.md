@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 - 🌱 I’m currently learning **ReactJS, PostgreSQL, TypeScript and TailwindCSS**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://jcfaderanga.github.io/Portfolio./)
+- 👨‍💻 All of my projects are available at [Portfolio](https://jcfaderanga.vercel.app)
 
 - 💬 Ask me about **HTML, CSS and JavaScript**
 
